@@ -1,0 +1,20 @@
+{
+    "name": "Milliy Taomlar",
+    "foods": [
+        {
+            "name": "Jarkob",
+            "type": "ovqat",
+            "price": 70000
+        },
+        {
+            "name": "osh",
+            "type": "ovqat",
+            "price": 60000
+        },
+        {
+            "name": "cola",
+            "type": "water",
+            "price": 7000
+        }
+    ]
+}
